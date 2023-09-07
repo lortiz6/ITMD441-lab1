@@ -14,3 +14,11 @@ header {
   padding: 10px;
   text-align: center;
 }
+
+main {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: rgb(235, 234, 234);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
