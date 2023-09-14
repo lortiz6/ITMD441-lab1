@@ -5,11 +5,11 @@ body, h1, p {
 
 body {
   font-family: Arial, sans-serif;
-  background-color: #094ff4;
+  background-color: #f0f0f0;
 }
 
 header {
-  background-color: #e20a0a;
+  background-color: #333;
   color: rgb(235, 234, 234);
   padding: 10px;
   text-align: center;
@@ -19,13 +19,13 @@ main {
   max-width: 800px;
   margin: 20px auto;
   padding: 20px;
-  background-color: rgb(12, 242, 138);
+  background-color: rgb(235, 234, 234);
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 footer {
   text-align: center;
   padding: 10px;
-  background-color: #fc09d3;
+  background-color: #333;
   color: rgb(235, 234, 234);
 }
