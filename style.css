@@ -1,3 +1,7 @@
+header, main, footer {
+  background-color: rgb(218, 208, 208);
+}
+
 body, h1, p {
   margin: 0;
   padding: 0;
